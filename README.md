@@ -1,7 +1,7 @@
 This repo contains my script for processing the Getting and Cleaning Data peer graded assignement
-Excecute the run_analysis.R 
-The script was operated in Windows
-The data takes smartwearable data already obtained and summarizes using averages of 30 partcipants doing 6 different activities 
+#Excecute the run_analysis.R 
+#The script was operated in Windows
+#The data takes smartwearable data already obtained and summarizes using averages of 30 partcipants doing 6 different activities 
 
 A Description of the assignment follows:
 etting and Cleaning Data Course Projectless 
