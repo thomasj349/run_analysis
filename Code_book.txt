@@ -1,0 +1,15 @@
+## download and save the files
+
+## read the data and match the labels as described in the provided Readme
+
+## The train and test datas are merged seperately
+
+## The train and test sets are merged now
+
+## create a new table that contains only those column names that include mean and standard deviation.
+## We have also include the activity and subject columns that are the first two columns
+
+## Using the data in the activity_labels file we match the ID to the activity type 
+	## so 1 becomes "walking" ect
+
+## We create a new final dataset that calulates the mean of each subject and each actvity
